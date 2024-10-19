@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopify App Template - Remix
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
@@ -361,3 +362,6 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 - [App extensions](https://shopify.dev/docs/apps/app-extensions/list)
 - [Shopify Functions](https://shopify.dev/docs/api/functions)
 - [Getting started with internationalizing your app](https://shopify.dev/docs/apps/best-practices/internationalization/getting-started)
+=======
+# SundayCandyShop
+>>>>>>> ad3fb1a8abe9cf69bf6770292b4cf5979a2657b0
